@@ -10,6 +10,8 @@ Sulawesi Barat, Mamasa
 
 ### Sekolah / Akademik
 
+STMIK Handayani
+
 ### Hobi
 
 - badminton
@@ -23,4 +25,4 @@ Sulawesi Barat, Mamasa
 
 ### Profile Link
 
-[Nama](https://github.com/Marcelinoderry)
+[Marcelinoderry](https://github.com/Marcelinoderry)
